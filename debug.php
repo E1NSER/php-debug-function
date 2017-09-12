@@ -1,3 +1,4 @@
+<?php
 function debugVar($var, $exit = false) {
 	echo '<pre style="font-size:11px;">';
  
@@ -15,3 +16,4 @@ function debugVar($var, $exit = false) {
 		exit;
 	}
 }
+?>
