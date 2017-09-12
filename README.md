@@ -1,5 +1,5 @@
 # php-debug-function
-A better var_dump() alternative
+A better var_dump() alternative for PHP
 
 ## Usage
 Place the function in your project and use it like **var_dump()**
